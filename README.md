@@ -8,6 +8,6 @@ Hey, Hi, Hello, Hola, Ohayo, Wassup and Cześć 👋
 
 💬 Ask me about: [ "Video games" ]
 
-📫 How to reach me: [Email and phone]
+📫 How to reach me: ["Email", "Phone"]
 
 ⚡ Fascinating fact: Playing action video games trains people to make right decisions faster. How? Players develop a heightened sense of their surroundings and that helps them multitask. And surgeons that regularly play video games make 37% fewer errors and perform their tasks 27% faster than peers.
